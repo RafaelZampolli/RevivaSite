@@ -1,13 +1,15 @@
+'use client'
+
 import { Footer } from './components/Footer'
 import { Navbar } from './components/Navbar'
-import { About } from './pages/About'
-import { Contact } from './pages/Contact'
-import { Home } from './pages/Home'
-import { Institutions } from './pages/Institutions'
-import { NotFound } from './pages/NotFound'
-import { Professionals } from './pages/Professionals'
-import { Solution } from './pages/Solution'
-import { Technology } from './pages/Technology'
+import { About } from './legacy-pages/About'
+import { Contact } from './legacy-pages/Contact'
+import { Home } from './legacy-pages/Home'
+import { Institutions } from './legacy-pages/Institutions'
+import { NotFound } from './legacy-pages/NotFound'
+import { Professionals } from './legacy-pages/Professionals'
+import { Solution } from './legacy-pages/Solution'
+import { Technology } from './legacy-pages/Technology'
 import type { ComponentType } from 'react'
 
 const routes: Record<string, ComponentType> = {
