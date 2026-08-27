@@ -168,27 +168,6 @@ const __TURBOPACK__default__export__ = {
     blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAgUlEQVR42mWKOwrCQBQA33ubDftRUBEFsXBBWatFBBu1EVGsDdbWSS6QIpBLJE2ukEuGFIF8ppwZgBZEBkgeX+4fwtyiRkAnkjDXUJ9+pTw8E1KLHfRAYtp9c2lf6fTyr9hkZUeDtO+Mr48fYe4xMl8NBiR/4wJvtj1rFxTI1bxNNf89DN4R5UGjAAAAAElFTkSuQmCC"
 };
 }),
-"[project]/src/assets/rehabilitation-movement.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
-
-__turbopack_context__.v("/_next/static/media/rehabilitation-movement.306ac6xr097y2.jpg" + (globalThis["NEXT_CLIENT_ASSET_SUFFIX"] || ''));}),
-"[project]/src/assets/rehabilitation-movement.jpg.mjs { IMAGE => \"[project]/src/assets/rehabilitation-movement.jpg (static in ecmascript, tag client)\" } [app-ssr] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
-"use strict";
-
-__turbopack_context__.s([
-    "default",
-    ()=>__TURBOPACK__default__export__
-]);
-var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$rehabilitation$2d$movement$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/rehabilitation-movement.jpg (static in ecmascript, tag client)");
-;
-const __TURBOPACK__default__export__ = {
-    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$rehabilitation$2d$movement$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
-    width: 1600,
-    height: 2401,
-    blurWidth: 5,
-    blurHeight: 8,
-    blurDataURL: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/wAARCAAIAAUDAREAAhEBAxEB/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4dFRYRGCMfJSQiHyIhJis3LyYpNCkhIjBBMTQ5Oz4+PiUuRElDPEg3PT47/9sAQwEKCwsODQ4cEBAcOygiKDs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDoIPE8jXFwZYIzBvxDnIbHfP6YqeaHVhafRH//2Q=="
-};
-}),
 "[project]/src/assets/rehabilitation-session.jpg (static in ecmascript, tag client)", ((__turbopack_context__) => {
 
 __turbopack_context__.v("/_next/static/media/rehabilitation-session.20c3_86uh5jsg.jpg" + (globalThis["NEXT_CLIENT_ASSET_SUFFIX"] || ''));}),
@@ -2328,7 +2307,11 @@ function Home() {
                 lineNumber: 13,
                 columnNumber: 102
             }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$CTASection$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["CTASection"], {}, void 0, false, {
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$CTASection$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["CTASection"], {
+                title: "O futuro da reabilitação está em movimento.",
+                copy: "A ReViva une tecnologia, interação e cuidado para abrir novas possibilidades em cada jornada.",
+                label: "Conheça a ReViva"
+            }, void 0, false, {
                 fileName: "[project]/src/legacy-pages/Home.tsx",
                 lineNumber: 13,
                 columnNumber: 114
@@ -4182,41 +4165,21 @@ __turbopack_context__.s([
     ()=>Differentials
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/.pnpm/next@16.3.3_@types+node@26._0e56db0d1655973694da50e817bf365d/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Icon$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/Icon.tsx [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$SectionHeader$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/SectionHeader.tsx [app-ssr] (ecmascript)");
-;
 ;
 ;
 const differentials = [
     {
-        icon: 'headset',
-        title: 'Realidade Virtual',
-        text: 'Imersão que transforma o ambiente de exercício.'
+        title: 'Imersão',
+        text: 'Realidade Virtual aplicada à experiência de reabilitação.'
     },
     {
-        icon: 'spark',
-        title: 'Gamificação',
-        text: 'Desafios e feedback para incentivar a participação.'
+        title: 'Engajamento',
+        text: 'Gamificação para tornar a jornada mais envolvente.'
     },
     {
-        icon: 'data',
-        title: 'Dados',
-        text: 'Interações convertidas em informações úteis.'
-    },
-    {
-        icon: 'heartPulse',
-        title: 'Experiência',
-        text: 'Uma abordagem mais ativa e interativa.'
-    },
-    {
-        icon: 'shield',
-        title: 'Acessibilidade',
-        text: 'Pensada para o contexto brasileiro.'
-    },
-    {
-        icon: 'target',
-        title: 'Inovação brasileira',
-        text: 'Tecnologia com olhar para necessidades locais.'
+        title: 'Evolução',
+        text: 'Dados que ajudam a visualizar o desempenho.'
     }
 ];
 function Differentials() {
@@ -4229,82 +4192,82 @@ function Differentials() {
                     eyebrow: "Por que ReViva",
                     title: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
                         children: [
-                            "Uma visão ",
+                            "Tecnologia que convida o corpo a ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
-                                children: "mais humana"
+                                children: "participar."
                             }, void 0, false, {
                                 fileName: "[project]/src/sections/Differentials.tsx",
-                                lineNumber: 17,
-                                columnNumber: 68
-                            }, this),
-                            " para a tecnologia."
+                                lineNumber: 13,
+                                columnNumber: 91
+                            }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/sections/Differentials.tsx",
-                        lineNumber: 17,
+                        lineNumber: 13,
                         columnNumber: 56
                     }, this),
-                    copy: "A proposta é aproximar inovação, movimento e cuidado em uma solução simples de compreender.",
-                    centered: true
+                    copy: "A proposta é aproximar inovação, movimento e cuidado em uma experiência feita para acompanhar."
                 }, void 0, false, {
                     fileName: "[project]/src/sections/Differentials.tsx",
-                    lineNumber: 17,
+                    lineNumber: 13,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "differentials-grid",
-                    children: differentials.map((item)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("article", {
+                    children: differentials.map((item, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("article", {
                             className: "differential",
                             children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "differential__icon",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Icon$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Icon"], {
-                                        name: item.icon,
-                                        size: 21
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/sections/Differentials.tsx",
-                                        lineNumber: 19,
-                                        columnNumber: 127
-                                    }, this)
-                                }, void 0, false, {
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    children: [
+                                        "0",
+                                        index + 1
+                                    ]
+                                }, void 0, true, {
                                     fileName: "[project]/src/sections/Differentials.tsx",
-                                    lineNumber: 19,
-                                    columnNumber: 91
+                                    lineNumber: 15,
+                                    columnNumber: 98
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                     children: item.title
                                 }, void 0, false, {
                                     fileName: "[project]/src/sections/Differentials.tsx",
-                                    lineNumber: 19,
-                                    columnNumber: 168
+                                    lineNumber: 15,
+                                    columnNumber: 123
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     children: item.text
                                 }, void 0, false, {
                                     fileName: "[project]/src/sections/Differentials.tsx",
-                                    lineNumber: 19,
-                                    columnNumber: 189
+                                    lineNumber: 15,
+                                    columnNumber: 144
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
+                                    children: "↗"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/sections/Differentials.tsx",
+                                    lineNumber: 15,
+                                    columnNumber: 162
                                 }, this)
                             ]
                         }, item.title, true, {
                             fileName: "[project]/src/sections/Differentials.tsx",
-                            lineNumber: 19,
-                            columnNumber: 40
+                            lineNumber: 15,
+                            columnNumber: 47
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/src/sections/Differentials.tsx",
-                    lineNumber: 18,
+                    lineNumber: 14,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/sections/Differentials.tsx",
-            lineNumber: 16,
+            lineNumber: 12,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/sections/Differentials.tsx",
-        lineNumber: 15,
+        lineNumber: 11,
         columnNumber: 5
     }, this);
 }
@@ -4981,8 +4944,6 @@ __turbopack_context__.s([
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/.pnpm/next@16.3.3_@types+node@26._0e56db0d1655973694da50e817bf365d/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Icon$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/Icon.tsx [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$SectionHeader$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/SectionHeader.tsx [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$rehabilitation$2d$movement$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$rehabilitation$2d$movement$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/rehabilitation-movement.jpg.mjs { IMAGE => "[project]/src/assets/rehabilitation-movement.jpg (static in ecmascript, tag client)" } [app-ssr] (structured image object with data url, ecmascript)');
-;
 ;
 ;
 ;
@@ -4993,22 +4954,14 @@ function TechnologyPreview() {
             className: "container technology-preview__grid",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "tech-editorial tech-editorial--photo scroll-animate",
-                    "aria-label": "Reabilitação acompanhada",
+                    className: "tech-editorial scroll-animate",
+                    "aria-label": "Tecnologia ReViva",
                     children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                            src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$rehabilitation$2d$movement$2e$jpg$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$rehabilitation$2d$movement$2e$jpg__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"].src,
-                            alt: "Fisioterapeuta acompanhando paciente em exercício de reabilitação"
-                        }, void 0, false, {
-                            fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                            lineNumber: 10,
-                            columnNumber: 11
-                        }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                            children: "01"
+                            children: "01 / Tecnologia"
                         }, void 0, false, {
                             fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                            lineNumber: 11,
+                            lineNumber: 9,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
@@ -5016,41 +4969,41 @@ function TechnologyPreview() {
                                 "Realidade",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                                    lineNumber: 11,
-                                    columnNumber: 43
+                                    lineNumber: 9,
+                                    columnNumber: 56
                                 }, this),
                                 "Virtual"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                            lineNumber: 11,
-                            columnNumber: 26
+                            lineNumber: 9,
+                            columnNumber: 39
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                             children: "interação"
                         }, void 0, false, {
                             fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                            lineNumber: 11,
-                            columnNumber: 65
+                            lineNumber: 9,
+                            columnNumber: 78
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                             children: "dados"
                         }, void 0, false, {
                             fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                            lineNumber: 11,
-                            columnNumber: 81
+                            lineNumber: 9,
+                            columnNumber: 94
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
                             children: "cuidado"
                         }, void 0, false, {
                             fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                            lineNumber: 11,
-                            columnNumber: 93
+                            lineNumber: 9,
+                            columnNumber: 106
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                    lineNumber: 9,
+                    lineNumber: 8,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5064,19 +5017,19 @@ function TechnologyPreview() {
                                         children: "Informação com contexto."
                                     }, void 0, false, {
                                         fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                                        lineNumber: 14,
+                                        lineNumber: 12,
                                         columnNumber: 91
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                                lineNumber: 14,
+                                lineNumber: 12,
                                 columnNumber: 68
                             }, this),
                             copy: "A ReViva conecta Realidade Virtual, gamificação e interação em ambiente 3D a uma camada de acompanhamento de desempenho."
                         }, void 0, false, {
                             fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                            lineNumber: 14,
+                            lineNumber: 12,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$3$2e$3_$40$types$2b$node$40$26$2e$_0e56db0d1655973694da50e817bf365d$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -5089,34 +5042,34 @@ function TechnologyPreview() {
                                     size: 17
                                 }, void 0, false, {
                                     fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                                    lineNumber: 15,
+                                    lineNumber: 13,
                                     columnNumber: 78
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                            lineNumber: 15,
+                            lineNumber: 13,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/sections/TechnologyPreview.tsx",
-                    lineNumber: 13,
+                    lineNumber: 11,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/sections/TechnologyPreview.tsx",
-            lineNumber: 8,
+            lineNumber: 7,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/sections/TechnologyPreview.tsx",
-        lineNumber: 7,
+        lineNumber: 6,
         columnNumber: 5
     }, this);
 }
 }),
 ];
 
-//# sourceMappingURL=src_1xwmytu._.js.map
+//# sourceMappingURL=src_0hmh7th._.js.map

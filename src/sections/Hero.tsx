@@ -7,7 +7,8 @@ export function Hero() {
     <section className="hero">
       <div className="hero__glow hero__glow--one" />
       <div className="hero__glow hero__glow--two" />
-      <div className="container hero__grid">
+      <div className="hero__field" aria-hidden="true"><i /><i /><i /></div>
+      <div className="container hero__grid hero__grid--cinematic">
         <div className="hero__content">
           <p className="eyebrow"><span />HealthTech brasileira</p>
           <h1>Reabilitação que transforma <em>movimento</em> em evolução.</h1>
@@ -18,9 +19,10 @@ export function Hero() {
           </div>
           <p className="hero__disclaimer"><Icon name="heartPulse" size={17} />Tecnologia criada para apoiar jornadas de reabilitação.</p>
         </div>
-        <div className="hero-visual hero-visual--photo scroll-animate" aria-label="Sessão de reabilitação acompanhada por profissional" role="img">
+        <div className="hero-visual hero-visual--photo hero-visual--cinematic scroll-animate" aria-label="Sessão de reabilitação acompanhada por profissional" role="img">
           <img src={rehabilitationSession.src} alt="Paciente em sessão de reabilitação com acompanhamento profissional" />
-          <p>Movimento com<br /><strong>propósito.</strong></p>
+          <p><small>ReViva / 01</small>Movimento com<br /><strong>propósito.</strong></p>
+          <span className="hero-visual__glass-tag">experiência interativa</span>
         </div>
       </div>
     </section>
