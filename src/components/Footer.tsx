@@ -1,5 +1,5 @@
 import { footerGroups } from '../data/navigation'
-import revivaLogo from '../assets/brand/reviva-logo.png'
+import revivaLogo from '../assets/brand/reviva-logo-official.png'
 import { Icon } from './Icon'
 
 export function Footer() {
@@ -7,7 +7,7 @@ export function Footer() {
     <footer className="site-footer">
       <div className="container site-footer__top">
         <div className="footer-brand">
-          <a href="/" className="footer-brand__logo" aria-label="ReViva — página inicial"><img src={revivaLogo} alt="ReViva Health & Tech" /></a>
+          <a href="/" className="footer-brand__logo" aria-label="ReViva — página inicial"><img src={revivaLogo.src} alt="ReViva Health & Tech" /></a>
           <p>Tecnologia, movimento e inovação para uma nova experiência de reabilitação.</p>
           <div className="social-links" aria-label="Redes sociais">
             <a href="/contato" aria-label="LinkedIn da ReViva"><Icon name="linkedin" size={18} /></a>
