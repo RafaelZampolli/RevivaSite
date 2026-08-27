@@ -2,7 +2,7 @@ import type { ReactNode } from 'react'
 import { Button } from './Button'
 import revivaMark from '../assets/brand/reviva-mark-official.png'
 
-interface PageHeroProps { eyebrow: string; title: ReactNode; copy: string; action?: { label: string; href: string }; children?: ReactNode }
+interface PageHeroProps { eyebrow: string; title: ReactNode; copy: string; action?: { label: string; href: string } }
 
 export function PageHero({ eyebrow, title, copy, action, children }: PageHeroProps) {
   return (

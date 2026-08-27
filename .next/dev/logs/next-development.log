@@ -1,0 +1,5 @@
+{"timestamp":"00:00:01.693","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:01.696","source":"Server","level":"LOG","message":"✓ Generated AGENTS.md and CLAUDE.md for AI agents. Set `agentRules: false` in next.config to disable."}
+{"timestamp":"00:00:04.333","source":"Server","level":"ERROR","message":"⨯ ReferenceError: window is not defined"}
+{"timestamp":"00:00:04.474","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:05.481","source":"Server","level":"ERROR","message":"⨯ ReferenceError: window is not defined"}

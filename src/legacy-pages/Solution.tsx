@@ -14,9 +14,7 @@ const focusAreas = [
 export function Solution() {
   usePageMetadata('Solução | ReViva', 'Conheça como a ReViva combina Realidade Virtual, gamificação e dados como apoio à reabilitação.')
   return <>
-    <PageHero eyebrow="A solução ReViva" title={<>Uma experiência que convida o corpo a <em>participar.</em></>} copy="A ReViva transforma movimentos terapêuticos em atividades interativas, conectando participação, contexto e acompanhamento." action={{ label: 'Fale com a ReViva', href: '/contato' }}>
-      <div className="solution-hero-art"><span className="solution-hero-art__circle" /><div className="solution-hero-art__screen"><i /><i /><i /><b>desafio<br />ativo</b></div><div className="solution-hero-art__hand">+</div><div className="solution-hero-art__chip">feedback em tempo real</div></div>
-    </PageHero>
+    <PageHero eyebrow="A solução ReViva" title={<>Uma experiência que convida o corpo a <em>participar.</em></>} copy="A ReViva transforma movimentos terapêuticos em atividades interativas, conectando participação, contexto e acompanhamento." action={{ label: 'Fale com a ReViva', href: '/contato' }} />
     <section className="section solution-intro">
       <div className="container split-intro"><div><p className="eyebrow"><span />Reabilitação em movimento</p><h2>Uma jornada mais presente, do primeiro gesto ao próximo avanço.</h2></div><p>O objetivo não é substituir o profissional ou reduzir a reabilitação a uma tela. É oferecer uma camada de experiência que pode tornar a prática mais convidativa e a evolução mais visível.</p></div>
     </section>
