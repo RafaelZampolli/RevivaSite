@@ -1,6 +1,6 @@
 import { Button } from '../components/Button'
 import { Icon } from '../components/Icon'
-import revivaLogo from '../assets/brand/reviva-logo-official.png'
+import rehabilitationSession from '../assets/rehabilitation-session.jpg'
 
 export function Hero() {
   return (
@@ -18,9 +18,8 @@ export function Hero() {
           </div>
           <p className="hero__disclaimer"><Icon name="heartPulse" size={17} />Tecnologia criada para apoiar jornadas de reabilitação.</p>
         </div>
-        <div className="hero-visual hero-visual--brand" aria-label="ReViva Health & Tech" role="img">
-          <div className="hero-visual__frame" />
-          <img src={revivaLogo.src} alt="" />
+        <div className="hero-visual hero-visual--photo scroll-animate" aria-label="Sessão de reabilitação acompanhada por profissional" role="img">
+          <img src={rehabilitationSession.src} alt="Paciente em sessão de reabilitação com acompanhamento profissional" />
           <p>Movimento com<br /><strong>propósito.</strong></p>
         </div>
       </div>

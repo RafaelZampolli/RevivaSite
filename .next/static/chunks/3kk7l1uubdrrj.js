@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,79537,i=>{i.q("/_next/static/media/reviva-logo-official.07x2hy3zzibsp.png")},63656,i=>{i.q("/_next/static/media/reviva-mark-official.1jowj4xbp1sok.png")}]);
