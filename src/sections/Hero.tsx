@@ -17,18 +17,14 @@ export function Hero() {
           </div>
           <p className="hero__disclaimer"><Icon name="heartPulse" size={17} />Tecnologia criada para apoiar jornadas de reabilitação.</p>
         </div>
-        <div className="hero-visual" aria-label="Ilustração conceitual de uma experiência de reabilitação em Realidade Virtual" role="img">
+        <div className="hero-visual" aria-label="Composição abstrata sobre movimento e evolução" role="img">
           <div className="hero-visual__backdrop" />
           <div className="hero-visual__grid" />
           <div className="hero-visual__ring hero-visual__ring--outer" />
           <div className="hero-visual__ring hero-visual__ring--inner" />
           <div className="hero-visual__path"><i /><i /><i /><i /><i /></div>
-          <div className="vr-headset">
-            <div className="vr-headset__glow" />
-            <div className="vr-headset__strap" />
-            <div className="vr-headset__body"><i /><i /><b /></div>
-            <span className="vr-headset__left" /><span className="vr-headset__right" />
-          </div>
+          <div className="hero-visual__figure"><i /><b /><span /></div>
+          <div className="hero-visual__orbit-label">movimento<br /><strong>em evolução</strong></div>
           <div className="visual-chip visual-chip--movement"><Icon name="move" size={17} /><span>Movimento</span><b>ativo</b></div>
           <div className="visual-chip visual-chip--progress"><span className="pulse-dot" /><div><small>Sessão</small><strong>em progresso</strong></div></div>
           <div className="visual-stat"><span>Experiência</span><strong>ReViva <i>01</i></strong><div><b /><b /><b /><b /><b /><b /></div></div>

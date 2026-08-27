@@ -8,6 +8,7 @@ import { Home } from './legacy-pages/Home'
 import { Institutions } from './legacy-pages/Institutions'
 import { NotFound } from './legacy-pages/NotFound'
 import { Professionals } from './legacy-pages/Professionals'
+import { Plans } from './legacy-pages/Plans'
 import { Solution } from './legacy-pages/Solution'
 import { Technology } from './legacy-pages/Technology'
 import type { ComponentType } from 'react'
@@ -20,6 +21,7 @@ const routes: Record<string, ComponentType> = {
   '/profissionais': Professionals,
   '/instituicoes': Institutions,
   '/contato': Contact,
+  '/planos': Plans,
 }
 
 function App() {
